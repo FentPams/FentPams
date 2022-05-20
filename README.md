@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FentPams
-- 👀 I’m interested in Learning CS
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Java OOP learning, DS and Algorithm learning.
+- 🌱 I’m currently studying Computer Science in NEU-CS align
+- 💞️ I’m looking to collaborate on...
+- 📫 Reach me by feng.xinyi@northeastern.edu
 
 <!---
 FentPams/FentPams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
