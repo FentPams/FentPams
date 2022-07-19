@@ -1,2 +1,15 @@
-![Xinyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FentPams&show_icons=true&theme=dracula)
+### Hi there 👋, this is Xinyi Feng
+![Xinyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FentPams&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FentPams&layout=compact)
+
+- :woman_technologist: I am a current CS student in NEU based in CA.
+- 🔭 Seeking for SDE 2023 summer intern
+- :love_letter: Contact me via xinyifeng94@gmail.com 
+
+
+
+
+
+
 
