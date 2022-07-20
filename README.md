@@ -1,7 +1,7 @@
 <img align="left" alt="Brain" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="50%">
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
 
 - 📚 I'm a current Computer Science Graduate student in Northeastern University 
@@ -18,7 +18,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EDB63EFF&lines=Thanks+for++coming+to+my+space!;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>)](https://git.io/typing-svg)
 
 #### Connect me with:
-<img align="left" alt="XinyiFeng | LinkedIn" width="45px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" src = "https://www.linkedin.com/in/feng-xinyi" />
+<img align="left" alt="XinyiFeng | LinkedIn" width="45px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" src = "https://www.linkedin.com/in/xinyi-feng-7b407622a/" />
 <img align="mid" alt="XinyiFeng | email" width="45px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" src = "xinyifeng94@gmail.com" />
 
 
