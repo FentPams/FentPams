@@ -5,7 +5,7 @@
 
 
 - 📚 I'm a current Computer Science Graduate student in Northeastern University 
-- 👩‍💻 I'm seeking for a 2023 SDE summer intern opportunities 
+- 👩‍💻 I'm seeking for 2023 SDE summer intern opportunities 
 - :mortar_board: I have a master degeree of Arts of TESOL in New York University.
 - 👩‍🏫 I was a language Teacher and a co-founder of language institution in Shanghai. 
 
