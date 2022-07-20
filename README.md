@@ -15,7 +15,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EDB63EFF&lines=Thanks+for++coming+to+my+space!;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EDB63EFF&lines=Welcome+to+my+geek+space!;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>)](https://git.io/typing-svg)
 
 #### Connect me with:
 <img align="left" alt="XinyiFeng | LinkedIn" width="45px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" src = "https://www.linkedin.com/in/xinyi-feng-7b407622a/" />
