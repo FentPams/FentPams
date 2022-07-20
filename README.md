@@ -14,9 +14,6 @@
 <img align="right" alt="Coding" width="450" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EDB63EFF&lines=Welcome+to+my+geek+space!;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>)](https://git.io/typing-svg)
-
 #### Connect me with:
 <img align="left" alt="XinyiFeng | LinkedIn" width="45px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" src = "https://www.linkedin.com/in/xinyi-feng-7b407622a/" />
 <img align="mid" alt="XinyiFeng | email" width="45px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" src = "xinyifeng94@gmail.com" />
@@ -26,6 +23,9 @@
 #### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,nodejs,aws,gcp,azure,vue,c,idea,github,linux&theme=light&perline=6)](https://skillicons.dev)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EDB63EFF&lines=Welcome+to+my+geek+space!;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>)](https://git.io/typing-svg)
 
 <br />
 <br />
