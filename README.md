@@ -18,14 +18,14 @@
 <a href="https://www.linkedin.com/in/xinyi-feng-7b407622a/">
  <img alt="Xinyi's linkedin" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style= "width:50px;">
 </a>
-<a href="xinyifeng94@gmail.com">
+<a href="mailto:xinyifeng94@gmail.com">
 <img align="mid" alt="XinyiFeng | email" width="45px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" src = "xinyifeng94@gmail.com" />
 </a>
 
 
 #### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,nodejs,aws,gcp,azure,vue,c,idea,github,linux&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,nodejs,aws,gcp,azure,vue,c,idea,github,linux,html&theme=light&perline=6)](https://skillicons.dev)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EDB63EFF&lines=Welcome+to+my+geek+space!;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>)](https://git.io/typing-svg)
