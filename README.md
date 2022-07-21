@@ -11,7 +11,7 @@
 
 <br /> 
 <br />
-<img align="right" alt="Coding" style="float:right;width:500px;height=400px" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+<img align="right" alt="Coding" style="float:right;width:450px;height=400px" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 
 #### Connect me with:
