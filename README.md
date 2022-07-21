@@ -11,13 +11,16 @@
 
 <br /> 
 <br />
-<img align="right" alt="Coding" width="450" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+<img align="right" alt="Coding" style="float:right;width:500px;height=400px" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 
 #### Connect me with:
-<img align="left" alt="XinyiFeng | LinkedIn" width="45px" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" src = "https://www.linkedin.com/in/xinyi-feng-7b407622a/" />
+<a href="https://www.linkedin.com/in/xinyi-feng-7b407622a/">
+ <img alt="Xinyi's linkedin" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style= "width:50px;">
+</a>
+<a href="xinyifeng94@gmail.com">
 <img align="mid" alt="XinyiFeng | email" width="45px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" src = "xinyifeng94@gmail.com" />
-
+</a>
 
 
 #### Languages and Tools:
