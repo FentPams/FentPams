@@ -25,7 +25,7 @@
 
 #### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,nodejs,aws,gcp,azure,vue,c,idea,github,linux,html,mysql,r,sqlite,react,javascript&theme=light&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,nodejs,aws,gcp,azure,vue,c,idea,github,linux,html,mysql,r,sqlite,react,javascript,figma,webflow&theme=light&perline=6)](https://skillicons.dev)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EDB63EFF&lines=Welcome+to+my+geek+space!;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>)](https://git.io/typing-svg)
