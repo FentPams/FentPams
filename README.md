@@ -14,7 +14,8 @@
 <img align="right" alt="Coding" style="float:right;width:450px;height=400px" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 
-#### Connect me with:
+#### Check my personal [Portfolio](https://webflow.com/design/xinyis-portfolio-16341a)
+#### Or connect me with:
 <a href="https://www.linkedin.com/in/xinyi-feng-7b407622a/">
  <img alt="Xinyi's linkedin" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style= "width:50px;">
 </a>
@@ -22,6 +23,9 @@
 <img align="mid" alt="XinyiFeng | email" width="45px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" src = "xinyifeng94@gmail.com" />
 </a>
 
+<a href="https://open.spotify.com/show/3rVknaj6yUpHQBdAvZyffq">
+<img align="mid" alt="XinyiFeng | spotify" width="45px" src="https://www.logo.wine/a/logo/Spotify/Spotify-Icon-Logo.wine.svg" style= "width:50px;" />
+</a>
 
 #### Languages and Tools:
 
@@ -35,7 +39,7 @@
 
 ![Xinyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=FentPams&show_icons=true&theme=light)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?myquote="Teaching+and+Learning+always+are+the+two+themes+of+me,+as+a+teacher+and+an+engineer."&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 <img align="right" alt="dots" width="200" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
 
