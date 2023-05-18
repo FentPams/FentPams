@@ -29,8 +29,70 @@
 </a>
 
 #### Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,nodejs,aws,gcp,azure,vue,c,idea,github,linux,html,mysql,r,sqlite,react,javascript,figma,webflow&theme=light&perline=6)](https://skillicons.dev)
+<p style="display: inline-block;" align="left">
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  </kbd>
+  <br>
+  <kbd>
+    <kbd>Apps</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Database</kbd>
+    <br>
+    <br>
+    <img width="50px" src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-built_black.png" />
+    <img width="50px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
+  </kbd>
+  <kbd>
+    <kbd>OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>Desgin Tools</kbd>
+    <br>
+    <br>
+    <img width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
+    <img width="30px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/webflow_logo_icon_169218.png" />
+    <img width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_cc_macos_bigsur_icon_190457.png" />
+  </kbd>
+</p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EDB63EFF&lines=Welcome+to+my+geek+space!;>>>>>>>>>>>>>>>>>>>>>>>>>>>>>)](https://git.io/typing-svg)
