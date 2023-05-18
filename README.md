@@ -14,7 +14,7 @@
 <img align="right" alt="Coding" style="float:right;width:450px;height=400px" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 
-#### Check my personal [Portfolio](https://webflow.com/design/xinyis-portfolio-16341a)
+#### Check my personal [Portfolio](https://xinyis-portfolio-16341a.webflow.io/)
 #### Or connect me with:
 <a href="https://www.linkedin.com/in/xinyi-feng-7b407622a/">
  <img alt="Xinyi's linkedin" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style= "width:50px;">
