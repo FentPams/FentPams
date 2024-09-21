@@ -1,20 +1,38 @@
-<img align="left" alt="Brain" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-   <img align="left" alt="dots" width="200" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
-#### Check my personal [Portfolio](https://xinyis-portfolio-16341a.webflow.io/)
+ <img align="left" alt="dots" width="200" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
 
-#### Or connect me with: 
-<a href="https://www.linkedin.com/in/xinyi-feng-7b407622a/">
- <img alt="Xinyi's linkedin" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style= "width:50px;">
+<h3 align="left">
+    <samp>&gt; Hey, I'm
+        <b><a href="https://xinyis-portfolio-16341a.webflow.io/"target="_blank">Xinyi Feng</a></b>
+    </samp>
+</h3>
+<h4 align="left">
+    <samp>&gt; Hailing from Xin'anjiang, now thriving in Bay Area
+    </samp>
+</h4>
+<h4 align="left">
+    <samp>&gt; Crafting code at Adobe by day and fine-tuning my creations at home by night
+    </samp>
+</h4>
+<br>
+<h4><samp>&gt; Passion hides in .......... </samp></h4>
+<h6> 🐶 Professional dog walker &nbsp&nbsp; 👩‍🍳 Home chef extraordinaire &nbsp&nbsp; 🎮 League of Legends strategist &nbsp&nbsp; 📷 Enthusiastic photography lover!</h6>
+
+<br>
+<a href="https://www.linkedin.com/in/xinyi-feng-7b407622a/" target="_blank">
+    <img alt="Xinyi's LinkedIn" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" style="width:50px;">
 </a>
+&nbsp&nbsp&nbsp;
 <a href="mailto:xinyifeng94@gmail.com">
-<img align="mid" alt="XinyiFeng | email" width="45px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" src = "xinyifeng94@gmail.com" />
+    <img align="mid" alt="Xinyi Feng | Email" width="45px" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg">
 </a>
 
-#### Languages and Tools:
+<img align="right" alt="Brain" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+
+
 <p style="display: inline-block;" align="left">
   <kbd>
     <kbd>Front-end</kbd>
@@ -79,8 +97,6 @@
     <img width="30px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_cc_macos_bigsur_icon_190457.png" />
   </kbd>
 </p>
-
-
 
 
 
