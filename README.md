@@ -8,7 +8,9 @@
     <samp>&gt; Hey, I'm
         <b><a href="https://xinyis-portfolio-16341a.webflow.io/"target="_blank">Xinyi Feng</a></b>
     </samp>
+    
 </h3>
+ <img align="left" alt="dots" width="250" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
 <h4 align="left">
  I am from a small town called Xin’anjiang.<br></h4>
   <samp>
@@ -22,9 +24,8 @@
     </h6>
 
 
- <img align="left" alt="dots" width="150" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
 <br>
-<h4>Passion hides in .......... </h4>
+<h4> <samp>&gt; My passion hides in asides from coding.......... </samp> </h4>
 <h6> 🐶 Professional dog walker &nbsp&nbsp; 👩‍🍳 Home chef extraordinaire &nbsp&nbsp; 🎮 League of Legends strategist &nbsp&nbsp; 📷 Enthusiastic photography lover!</h6>
 
 <br>
