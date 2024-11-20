@@ -25,7 +25,7 @@
 
 
 <br>
-<h4> <samp>&gt; My passion hides in asides from coding.......... </samp> </h4>
+<h4> <samp>&gt; My passion mostly lives in coding, but it does take coffee breaks to... </samp> </h4>
 <h6> 🐶 Professional dog walker &nbsp&nbsp; 👩‍🍳 Home chef extraordinaire &nbsp&nbsp; 🎮 League of Legends strategist &nbsp&nbsp; 📷 Enthusiastic photography lover!</h6>
 
 <br>
