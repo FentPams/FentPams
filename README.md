@@ -2,7 +2,7 @@
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
- <img align="left" alt="dots" width="200" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
+
 
 <h3 align="left">
     <samp>&gt; Hey, I'm
@@ -10,15 +10,21 @@
     </samp>
 </h3>
 <h4 align="left">
-    <samp>&gt; Born in a peaceful town named Xin'anjiang, now trying hard to survive at Bay Area
-    </samp>
-</h4>
-<h4 align="left">
-    <samp>&gt; Crafting code by day and fine-tuning my creations by night
-    </samp>
-</h4>
+ I am from a small town called Xin’anjiang.<br></h4>
+  <samp>
+   <h6>
+  &gt; “Where’s that?”<br>
+  &gt; “Oh, it’s near Hangzhou.”<br>
+  &gt; “Where’s Hangzhou?”<br>
+  &gt; “Oh, it’s close to Shanghai.”<br>
+  &gt; “Ah, got it!”<br>
+   </h6></samp>
+    </h6>
+
+
+ <img align="left" alt="dots" width="150" src="http://orig10.deviantart.net/6512/f/2013/236/1/5/heart_gif_by_heyrobots-d6jl5ut.png">
 <br>
-<h4><samp>&gt; Passion hides in .......... </samp></h4>
+<h4>Passion hides in .......... </h4>
 <h6> 🐶 Professional dog walker &nbsp&nbsp; 👩‍🍳 Home chef extraordinaire &nbsp&nbsp; 🎮 League of Legends strategist &nbsp&nbsp; 📷 Enthusiastic photography lover!</h6>
 
 <br>
