@@ -10,11 +10,11 @@
     </samp>
 </h3>
 <h4 align="left">
-    <samp>&gt; Hailing from Xin'anjiang, now thriving in Bay Area
+    <samp>&gt; Born in a peaceful town named Xin'anjiang, now trying hard to survive at Bay Area
     </samp>
 </h4>
 <h4 align="left">
-    <samp>&gt; Crafting code at Adobe by day and fine-tuning my creations at home by night
+    <samp>&gt; Crafting code by day and fine-tuning my creations by night
     </samp>
 </h4>
 <br>
